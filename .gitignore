@@ -1,0 +1,8 @@
+/bitrix
+/upload
+/vendor
+/.access.php
+.htaccess
+favicon.ico
+index.php
+urlrewrite.php

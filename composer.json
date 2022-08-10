@@ -1,0 +1,11 @@
+{
+    "name": "test/project",
+    "autoload": {
+        "psr-4": {
+            "LogInOff\\TestProject\\": ""
+        }
+    },
+    "require": {
+        "symfony/var-dumper": "6.0.11"
+    }
+}
